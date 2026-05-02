@@ -1,3 +1,4 @@
+hi
 # Simple Event Bus
 
 Minimal event bus in rust.
