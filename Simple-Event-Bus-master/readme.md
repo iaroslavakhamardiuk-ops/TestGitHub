@@ -1,7 +1,7 @@
 # Simple Event Bus
 
 Minimal event bus in rust.
-It provides a basic event bus system that works with (probably) any type.
+It provides a basic event bus system that wmnborks with (probably) any type.
 
 
 Example Usage:
